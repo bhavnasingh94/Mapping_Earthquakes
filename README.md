@@ -10,5 +10,4 @@ The purpose of this project to create earthquake data in relation to the tectoni
 
 ![image](https://user-images.githubusercontent.com/98790082/178664903-9abc1805-c748-4418-9f6d-0f1164c1ba85.png)
 
-My Earthquake GeoJSON Mapping 
 http://127.0.0.1:5500/index.html
